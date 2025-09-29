@@ -42,7 +42,7 @@ const config: ExpoConfig = {
   name: getName(),
   slug: "react-conf-app",
   version: "1.1.0",
-  orientation: "portrait",
+  orientation: "default",
   icon: "./assets/app-icons/icon-default.png",
   userInterfaceStyle: "automatic",
   scheme: "reactconfapp",
